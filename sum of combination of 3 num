@@ -1,0 +1,22 @@
+/*Sum of combination of three numbers
+
+Write a program to print all sum combination of three numbers by taking
+two numbers at a time*/
+
+package Day1;
+public class Main{
+	public static void main(String []args){
+		
+		int m=2;
+		int n=4;
+		int k=6;
+		
+		int sum1=m+n;
+		int sum2=m+k;
+		int sum3=n+k;
+		System.out.println(sum1);
+		System.out.println(sum2);
+		System.out.println(sum3);
+		
+	}
+}

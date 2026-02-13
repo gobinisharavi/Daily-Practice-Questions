@@ -1,0 +1,12 @@
+package Day1;
+public class Main{
+	public static void main(String []args){
+		
+		int a=12222;
+		int b=1067;
+		
+		int div=a/b;
+		System.out.println(div);
+		
+	}
+}
